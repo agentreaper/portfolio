@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <h1>You did it! you finally commited your first website on gh pages</h1>
+  <h1 class="text-center">You did it! you finally commited your first website on gh pages</h1>
   <p>
     Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
     documentation
