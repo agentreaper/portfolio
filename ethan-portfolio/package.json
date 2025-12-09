@@ -10,7 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && git add . && git commit -m \"Deploy\" && git push origin main && cd .. && git subtree push --prefix portfolio/ethan-portfolio origin gh-pages"
+    "deploy": "npm run build && git add . && git commit --allow-empty -m \"Deploy\" && git push origin main && cd .. && git subtree push --prefix ethan-portfolio/dist origin gh-pages"
   },
   "dependencies": {
     "vue": "^3.5.25"
