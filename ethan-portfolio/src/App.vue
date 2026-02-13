@@ -39,9 +39,9 @@ const navigateToPage = (page) => {
             <button @click="navigateToPage('projets')" :class="currentView === 'projets' ? 'text-blanc' : 'text-bleu2 hover:text-blanc'" class="transition-colors duration-200">
               Projets
             </button>
-            <button @click="navigateToPage('competences')" :class="currentView === 'competences' ? 'text-blanc' : 'text-bleu2 hover:text-blanc'" class="transition-colors duration-200">
+            <!-- <button @click="navigateToPage('competences')" :class="currentView === 'competences' ? 'text-blanc' : 'text-bleu2 hover:text-blanc'" class="transition-colors duration-200">
               Compétences
-            </button>
+            </button> -->
             <button @click="navigateToPage('contact')" :class="currentView === 'contact' ? 'text-blanc' : 'text-bleu2 hover:text-blanc'" class="transition-colors duration-200">
               Contact
             </button>

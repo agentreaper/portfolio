@@ -42,7 +42,7 @@ export const experiences = [
     type: "actuel",
     activites: [
       "Mise en place de pipelines Azure DevOps",
-      "Séccurisations d'images docker",
+      "Sécurisations d'images Docker",
       "Création d'un outil d'audit de sécurité cloud",
       "Automatisation de l'analyse finops de souscriptions Azure",
       "Mise en place d'un monitoring de sécurité cloud"
