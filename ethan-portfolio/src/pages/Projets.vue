@@ -2,7 +2,8 @@
   <div class="projects-container">
     <div class="header-section">
       <h1>Mes Réalisations</h1>
-      <p class="subtitle">Une sélection de mes projets personnels et professionnels.</p>
+       <p class="subtitle">Une sélection de mes projets personnels et professionnels.</p>  
+      <p class="subtitle">Vous pouvez cliquer sur les images pour naviguer parmi les captures d'écrans ainsi que zoomer.</p>
     </div>
 
     <div class="projects-grid">
