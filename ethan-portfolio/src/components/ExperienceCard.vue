@@ -8,7 +8,7 @@
           class="h-16 md:h-20 w-auto border-2 border-bleu2 rounded-lg bg-blanc "
         />
         <span class="text-bleu2 font-semibold text-sm md:text-base">
-          {{ experience.dateDebut }} - {{ experience.dateFin }}
+          {{ experience.dateDebut }} --> {{ experience.dateFin }}
         </span>
       </div>
       <h3 class="text-blanc text-2xl md:text-3xl font-bold mb-2">

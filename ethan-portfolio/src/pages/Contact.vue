@@ -15,7 +15,7 @@
                 <img src="@/assets/images/gmail.png" alt="LinkedIn Icon" class="w-12 h-12 mb-4" />
                 <h3 class="text-xl font-bold text-white mb-2">Email</h3>
                 <a href="mailto:bertinethan.pro@gmail.com" class="text-red-400 hover:text-red-300 transition-colors">
-                    bertinethan.pro@gmail.com
+                    bertinethan.pro@proton.me
                 </a>
             </div>
         </div>

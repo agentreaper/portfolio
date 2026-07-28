@@ -28,6 +28,8 @@ export const experiences = [
         "Hologuation DR",
         "Sécurité des systèmes d'information",
         "Gestion des actifs",
+        "Accompagnement à la montée en maturité cyber",
+        "Croisement de référenciels pour définir un modèle d'audit"
 
 
     ]
